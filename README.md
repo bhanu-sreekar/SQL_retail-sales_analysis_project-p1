@@ -1,1 +1,0 @@
-# SQL_retail-sales_analysis_project-p1
